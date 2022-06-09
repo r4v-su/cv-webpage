@@ -1,2 +1,2 @@
 # cv-webpage
-# My Curriculum Vitae made with pure html/css
+## My Curriculum Vitae made with pure html/css
