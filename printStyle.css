@@ -1,0 +1,15 @@
+@page {
+    margin: 0;
+    size: A4;
+    size-adjust: 70%;
+}
+body {
+    padding-top: 1cm;
+}
+header {
+background-color: aqua;
+}
+
+footer {
+    
+}
